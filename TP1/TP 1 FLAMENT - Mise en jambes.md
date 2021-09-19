@@ -1,4 +1,4 @@
-#    **TP 1 - Mise en jambes**
+#    **TP 1 - Mise en jambes FLAMENT Matthias**
 
 ##    I. Exploration locale en solo
 
