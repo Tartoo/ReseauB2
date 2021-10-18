@@ -1,0 +1,8 @@
+default-lease-time 600;
+max-lease-time 7200;
+authoritative;
+subnet 10.3.0.128 netmask 255.255.255.192 {
+        range dynamic-bootp 10.3.0.131 10.3.0.189;
+        option broadcast-address 10.3.0.191;
+        option routers 10.3.0.190;
+}
